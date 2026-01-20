@@ -32,10 +32,10 @@ python Tide_DATABASE.ipynb
 ```
 ### 2. Run Server side
 ```bash
-python TASK4_DATABASE_YourName.py
+python Tide_SERVER.py
 ```
 ### 3. Run Client side
 ```bash
-python TASK4_DATABASE_YourName.py
+python Tide_CLIENT.py
 ```
 
